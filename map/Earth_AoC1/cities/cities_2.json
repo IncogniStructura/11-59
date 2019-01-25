@@ -1,0 +1,11 @@
+{
+	cities:
+	[
+{
+			Name: "Katowice",
+			x: 2319,
+			y: 908
+},
+	],
+	name: Earth
+}

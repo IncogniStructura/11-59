@@ -1,0 +1,15 @@
+{
+"Age_of_Civilizations": "Data",
+"Data_Scenario_Info": [
+	{
+		"Name": "ModernWorld",
+		"Author": "Lukasz Jakowski",
+		"Wiki": "",
+		"Civs": 30,
+		"Age": 11,
+		"Year": 3018,
+		"Month": 5,
+		"Day": 15
+	}
+]
+}
