@@ -79,7 +79,7 @@
 		{
 			Name: "Communist-Socialism",
 			Extra_Tag: "communistsocialism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 2,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.15,
@@ -117,7 +117,7 @@
 		{
 			Name: "Partial Communism",
 			Extra_Tag: "partialcommunism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 3,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.15,
@@ -155,7 +155,7 @@
 		{
 			Name: "Market-Authoritarian",
 			Extra_Tag: "marketauthoritarian",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 4,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.15,
@@ -193,7 +193,7 @@
 		{
 			Name: "Dengism",
 			Extra_Tag: "dengism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 5,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.15,
@@ -231,7 +231,7 @@
 		{
 			Name: "Titoism",
 			Extra_Tag: "titoism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 6,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.15,
@@ -269,7 +269,7 @@
 		{
 			Name: "Marxism-Leninism",
 			Extra_Tag: "marxismleninism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 7,
 			
 			ACCEPTABLE_TAXATION: 0.4,
 			MIN_GOODS: 0.2,
@@ -307,7 +307,7 @@
 		{
 			Name: "Stalinism",
 			Extra_Tag: "stalinism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 8,
 			
 			ACCEPTABLE_TAXATION: 0.37,
 			MIN_GOODS: 0.1,
@@ -345,7 +345,7 @@
 		{
 			Name: "Maoism",
 			Extra_Tag: "maoism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 9,
 			
 			ACCEPTABLE_TAXATION: 0.55,
 			MIN_GOODS: 0.1,
@@ -383,7 +383,7 @@
 		{
 			Name: "Neo-Bolshevism",
 			Extra_Tag: "neobolshevism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 10,
 			
 			ACCEPTABLE_TAXATION: 0.45,
 			MIN_GOODS: 0.2,
@@ -421,7 +421,7 @@
 		{
 			Name: "Anarcho-Communism",
 			Extra_Tag: "anarchocommunism",
-			GOV_GROUP_ID: 1,
+			GOV_GROUP_ID: 11,
 			
 			ACCEPTABLE_TAXATION: 0.15,
 			MIN_GOODS: 0.1,
@@ -459,7 +459,7 @@
 		{
 			Name: "Democracy",
 			Extra_Tag: "democracy",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 12,
 			
 			ACCEPTABLE_TAXATION: 0.24,
 			MIN_GOODS: 0.1,
@@ -497,7 +497,7 @@
 		{
 			Name: "Authoritarian Democracy",
 			Extra_Tag: "authoritariandemocracy",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 13,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.1,
@@ -535,7 +535,7 @@
 		{
 			Name: "Limited Democracy",
 			Extra_Tag: "limiteddemocracy",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 14,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.1,
@@ -573,7 +573,7 @@
 		{
 			Name: "Full Democracy",
 			Extra_Tag: "fulldemocracy",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 15,
 			
 			ACCEPTABLE_TAXATION: 0.4,
 			MIN_GOODS: 0.1,
@@ -611,7 +611,7 @@
 		{
 			Name: "Nationalism",
 			Extra_Tag: "nationalism",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 16,
 			
 			ACCEPTABLE_TAXATION: 0.4,
 			MIN_GOODS: 0.1,
@@ -649,7 +649,7 @@
 		{
 			Name: "Reactionary",
 			Extra_Tag: "reactionary",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 17,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.1,
@@ -687,7 +687,7 @@
 		{
 			Name: "Conservative",
 			Extra_Tag: "conservative",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 18,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.1,
@@ -725,7 +725,7 @@
 		{
 			Name: "Market Liberal",
 			Extra_Tag: "marketliberal",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 19,
 			
 			ACCEPTABLE_TAXATION: 0.25,
 			MIN_GOODS: 0.1,
@@ -763,7 +763,7 @@
 		{
 			Name: "Centrism",
 			Extra_Tag: "centrism",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 20,
 			
 			ACCEPTABLE_TAXATION: 0.4,
 			MIN_GOODS: 0.1,
@@ -801,7 +801,7 @@
 		{
 			Name: "Social Liberal",
 			Extra_Tag: "socialliberal",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 21,
 			
 			ACCEPTABLE_TAXATION: 0.5,
 			MIN_GOODS: 0.1,
@@ -839,7 +839,7 @@
 		{
 			Name: "Democratic Socialism",
 			Extra_Tag: "democraticsocialism",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 22,
 			
 			ACCEPTABLE_TAXATION: 0.55,
 			MIN_GOODS: 0.1,
@@ -877,7 +877,7 @@
 		{
 			Name: "State Capitalism",
 			Extra_Tag: "statecapitalism",
-			GOV_GROUP_ID: 2,
+			GOV_GROUP_ID: 23,
 			
 			ACCEPTABLE_TAXATION: 0.55,
 			MIN_GOODS: 0.1,
@@ -915,7 +915,7 @@
 		{
 			Name: "Dictatorship",
 			Extra_Tag: "dictatorship",
-			GOV_GROUP_ID: 3,
+			GOV_GROUP_ID: 24,
 			
 			ACCEPTABLE_TAXATION: 0.45,
 			MIN_GOODS: 0.14,
@@ -953,7 +953,7 @@
 		{
 			Name: "Authoritarian Dictatorship",
 			Extra_Tag: "authoritariandictatorship",
-			GOV_GROUP_ID: 3,
+			GOV_GROUP_ID: 25,
 			
 			ACCEPTABLE_TAXATION: 0.45,
 			MIN_GOODS: 0.14,
@@ -991,7 +991,7 @@
 		{
 			Name: "Military Junta",
 			Extra_Tag: "militaryjunta",
-			GOV_GROUP_ID: 3,
+			GOV_GROUP_ID: 26,
 			
 			ACCEPTABLE_TAXATION: 0.45,
 			MIN_GOODS: 0.14,
@@ -1029,7 +1029,7 @@
 		{
 			Name: "Fascism",
 			Extra_Tag: "fascism",
-			GOV_GROUP_ID: 4,
+			GOV_GROUP_ID: 27,
 			
 			ACCEPTABLE_TAXATION: 0.28,
 			MIN_GOODS: 0.14,
@@ -1067,7 +1067,7 @@
 		{
 			Name: "Rexism",
 			Extra_Tag: "rexism",
-			GOV_GROUP_ID: 4,
+			GOV_GROUP_ID: 28,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.12,
@@ -1105,7 +1105,7 @@
 		{
 			Name: "Falangism",
 			Extra_Tag: "falangism",
-			GOV_GROUP_ID: 4,
+			GOV_GROUP_ID: 29,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.17,
@@ -1143,7 +1143,7 @@
 		{
 			Name: "National Socialism",
 			Extra_Tag: "nationalsocialism",
-			GOV_GROUP_ID: 4,
+			GOV_GROUP_ID: 30,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.17,
@@ -1181,7 +1181,7 @@
 		{
 			Name: "Islamism",
 			Extra_Tag: "islamism",
-			GOV_GROUP_ID: 5,
+			GOV_GROUP_ID: 31,
 			
 			ACCEPTABLE_TAXATION: 0.25,
 			MIN_GOODS: 0.2,
@@ -1219,7 +1219,7 @@
 		{
 			Name: "Pan-Arabism",
 			Extra_Tag: "panarabism",
-			GOV_GROUP_ID: 5,
+			GOV_GROUP_ID: 32,
 			
 			ACCEPTABLE_TAXATION: 0.27,
 			MIN_GOODS: 0.2,
@@ -1257,7 +1257,7 @@
 		{
 			Name: "Islamic Republic",
 			Extra_Tag: "islamicrepublic",
-			GOV_GROUP_ID: 5,
+			GOV_GROUP_ID: 33,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.2,
@@ -1295,7 +1295,7 @@
 		{
 			Name: "Islamic Theocracy",
 			Extra_Tag: "islamictheocracy",
-			GOV_GROUP_ID: 5,
+			GOV_GROUP_ID: 34,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.2,
@@ -1333,7 +1333,7 @@
 		{
 			Name: "Radical Islamism",
 			Extra_Tag: "radicalislamism",
-			GOV_GROUP_ID: 5,
+			GOV_GROUP_ID: 35,
 			
 			ACCEPTABLE_TAXATION: 0.5,
 			MIN_GOODS: 0.2,
@@ -1371,7 +1371,7 @@
 		{
 			Name: "Monarchy",
 			Extra_Tag: "monarchy",
-			GOV_GROUP_ID: 6,
+			GOV_GROUP_ID: 36,
 			
 			ACCEPTABLE_TAXATION: 0.25,
 			MIN_GOODS: 0.15,
@@ -1409,7 +1409,7 @@
 		{
 			Name: "Theocratic Monarchy",
 			Extra_Tag: "theocraticmonarchy",
-			GOV_GROUP_ID: 6,
+			GOV_GROUP_ID: 37,
 			
 			ACCEPTABLE_TAXATION: 0.3,
 			MIN_GOODS: 0.2,
@@ -1447,7 +1447,7 @@
 		{
 			Name: "Absolute Monarchy",
 			Extra_Tag: "absolutemonarchy",
-			GOV_GROUP_ID: 6,
+			GOV_GROUP_ID: 38,
 			
 			ACCEPTABLE_TAXATION: 0.5,
 			MIN_GOODS: 0.2,
@@ -1485,7 +1485,7 @@
 		{
 			Name: "Electoral Monarchy",
 			Extra_Tag: "electoralmonarchy",
-			GOV_GROUP_ID: 6,
+			GOV_GROUP_ID: 39,
 			
 			ACCEPTABLE_TAXATION: 0.4,
 			MIN_GOODS: 0.2,
@@ -1523,7 +1523,7 @@
 		{
 			Name: "Constitutional Monarchy",
 			Extra_Tag: "constitutionalmonarchy",
-			GOV_GROUP_ID: 6,
+			GOV_GROUP_ID: 40,
 			
 			ACCEPTABLE_TAXATION: 0.4,
 			MIN_GOODS: 0.1,
@@ -1561,7 +1561,7 @@
 		{
 			Name: "Republic",
 			Extra_Tag: "republic",
-			GOV_GROUP_ID: 7,
+			GOV_GROUP_ID: 41,
 			
 			ACCEPTABLE_TAXATION: 0.25,
 			MIN_GOODS: 0.15,
@@ -1599,7 +1599,7 @@
 		{
 			Name: "Federal Republic",
 			Extra_Tag: "federalrepublic",
-			GOV_GROUP_ID: 7,
+			GOV_GROUP_ID: 42,
 			
 			ACCEPTABLE_TAXATION: 0.35,
 			MIN_GOODS: 0.15,
@@ -1637,7 +1637,7 @@
 		{
 			Name: "Mercantile Republic",
 			Extra_Tag: "mercantilerepublic",
-			GOV_GROUP_ID: 7,
+			GOV_GROUP_ID: 43,
 			
 			ACCEPTABLE_TAXATION: 0.25,
 			MIN_GOODS: 0.15,
@@ -1675,7 +1675,7 @@
 		{
 			Name: "Rebels",
 			Extra_Tag: "r",
-			GOV_GROUP_ID: 8,
+			GOV_GROUP_ID: 44,
 			
 			ACCEPTABLE_TAXATION: 0.24,
 			MIN_GOODS: 0.08,
@@ -1713,7 +1713,7 @@
 		{
 			Name: "Theocracy",
 			Extra_Tag: "theocracy",
-			GOV_GROUP_ID: 9,
+			GOV_GROUP_ID: 45,
 			
 			ACCEPTABLE_TAXATION: 0.2,
 			MIN_GOODS: 0.2,
