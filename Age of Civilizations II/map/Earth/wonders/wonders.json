@@ -1,0 +1,115 @@
+{
+	wonders:
+	[
+		{
+			Name: "Angkor Wat",
+			x: 3357,
+			y: 1463,
+			SinceYear: 1100,
+			UntilYear: 100000,
+			Image: "wat.png",
+			Wiki: "Angkor_Wat"
+		},
+		{
+			Name: "Chichen Itza",
+			x: 999,
+			y: 1369,
+			SinceYear: 600,
+			UntilYear: 100000,
+			Image: "itza.png",
+			Wiki: "Chichen_Itza"
+		},
+		{
+			Name: "Christ the Redeemer",
+			x: 1546,
+			y: 1954,
+			SinceYear: 1931,
+			UntilYear: 100000,
+			Image: "redeemer.png",
+			Wiki: "Christ_the_Redeemer_(statue)"
+		},
+		{
+			Name: "Colossus of Rhodes",
+			x: 2430,
+			y: 1135,
+			SinceYear: -305,
+			UntilYear: 100000,
+			Image: "Colossus.png",
+			Wiki: "Colossus_of_Rhodes"
+		},
+		{
+			Name: "Great Mosque of Djenne",
+			x: 2028,
+			y: 1456,
+			SinceYear: 1200,
+			UntilYear: 100000,
+			Image: "Great_Mosque.png",
+			Wiki: "Great_Mosque_of_Djenne"
+		},
+		{
+			Name: "Himeji Castle",
+			x: 3735,
+			y: 1162,
+			SinceYear: 1300,
+			UntilYear: 100000,
+			Image: "Himeji.png",
+			Wiki: "Himeji_Castle"
+		},
+		{
+			Name: "Moai",
+			x: 726,
+			y: 2011,
+			SinceYear: 1250,
+			UntilYear: 100000,
+			Image: "moai.png",
+			Wiki: "Moai"
+		},
+		{
+			Name: "Pyramids",
+			x: 2463,
+			y: 1233,
+			SinceYear: -2630,
+			UntilYear: 100000,
+			Image: "piramid.png",
+			Wiki: "Egyptian_pyramids"
+		},
+		{
+			Name: "Stonehenge",
+			x: 2060,
+			y: 889,
+			SinceYear: -3100,
+			UntilYear: 100000,
+			Image: "stonehenge.png",
+			Wiki: "Stonehenge"
+		},
+		{
+			Name: "Parthenon",
+			x: 2379,
+			y: 1111,
+			SinceYear: -447,
+			UntilYear: 100000,
+			Image: "Parthenon.png",
+			Wiki: "Parthenon"
+		},
+		{
+			Name: "Pharos of Alexandria",
+			x: 2453,
+			y: 1217,
+			SinceYear: 284,
+			UntilYear: 100000,
+			Image: "pharos.png",
+			Wiki: "Lighthouse_of_Alexandria"
+		},
+		{
+			Name: "Taj Mahal",
+			x: 3042,
+			y: 1274,
+			SinceYear: 1632,
+			UntilYear: 100000,
+			Image: "taj_mahal.png",
+			Wiki: "Taj_Mahal"
+		},
+	],
+	
+	name: Earth
+}
