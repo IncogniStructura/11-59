@@ -15,3 +15,8 @@ Main Developer: Vis Tacitus; aka IncogniStructura
 Contributors: Chexier
 Age of Civilizations II: Lukasz Jakowski
 Music: Paradox Interactive (East vs West OST)
+```
+# License
+
+```
+MIT License
