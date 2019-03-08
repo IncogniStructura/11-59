@@ -547,7 +547,7 @@
 			y: 852
 		},
 		{
-			Name: "Volgograd",
+			Name: "Stalingrad",
 			x: 2632,
 			y: 938
 		},
@@ -1812,9 +1812,9 @@
 			y: 1349
 		},
 		{
-			Name: "Saint Petersburg",
-			x: 2461,
-			y: 717
+			Name: "Leningrad",
+			x: 2458,
+			y: 714
 		},
 		{
 			Name: "Salt Lake City",
