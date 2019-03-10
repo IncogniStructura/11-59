@@ -11,10 +11,10 @@
 # Credits 
 
 ```
-Main Developer: Vis Tacitus; aka IncogniStructura
-Contributors: Chexier
-Age of Civilizations II: Lukasz Jakowski
-Music: Paradox Interactive (East vs West OST)
+Main Developer: Vis; aka IncogniStructura
+Developers: Chexier
+Age of Civilizations II: Łukasz Jakowski
+Music: Paradox Interactive (East vs West OST), Introversion Software (DEFCON OST)
 ```
 # License
 
